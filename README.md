@@ -6,7 +6,7 @@ Projeto construído no evento Next Level Week da Rocketseat.
 
 ![preview](./.github/preview.png)
 
-🔗[Clique aqui para acessar](https://elinardoamorim.github.com/nlw-esports-explorer)
+🔗[Clique aqui para acessar](https://elinardoamorim.github.io/nlw-esports-explorer)
 
 ## 🛠️Tecnologias
 
